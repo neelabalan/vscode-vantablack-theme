@@ -1,26 +1,25 @@
-# VS Code Pitch Black Color Theme
+# VS Code Vanta Black Color Theme 
 
-All backgrounds and unnecessary borders are black. Syntax highlighting colors are taken from the [Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_defaults.json) (default) theme.
+## Mostly similar to [Pitch Black Theme](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme)
 
+> In the beginning God created the heaven and the earth.
 
-## Install and activate
+> And the earth was without form, and void; and darkness was upon the face of the deep. 
 
-1. Install: `ctrl+p` (or `cmd+p`), enter `ext install pitch black`.
-2. Activate: `ctrl+k, ctrl+t` (or `cmd+k, cmd+t`), select `Pitch Black`.
+> And the Spirit of God moved upon the face of the waters.
 
+> And God said, ~~Let there be light: and there was light.~~ I like dark theme
 
-## Settings
+## Screenshot
 
-Some features cannot be enabled automatically by this extension. In the user settings, set the following.
-
-- Remove highlighting of tab lines etc: `"workbench.colorCustomizations": { "editorWhitespace.foreground": "#000" }`
-- Remove line next to scroll bar: `"editor.overviewRulerBorder": false`
-- Black title bar: `"window.titleBarStyle": "custom"`
+![screenshot](https://i.imgur.com/dpKsFq0.png)
 
 
 ## Manual Install
 
 ```
 cd ~/.vscode/extensions
-git clone https://github.com/ViktorQvarfordt/vscode-pitch-black-theme.git pitch-black-theme
+git clone https://github.com/neelabalan/vscode-vantablack-theme.git vanta-black-theme
 ```
+
+## Thanks to [Viktor Qvarfordt](https://github.com/ViktorQvarfordt)
