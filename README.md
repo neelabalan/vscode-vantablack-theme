@@ -22,4 +22,11 @@ cd ~/.vscode/extensions
 git clone https://github.com/neelabalan/vscode-vantablack-theme.git vanta-black-theme
 ```
 
+#### or
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
+
+`ext install neelabalan.vscode-vantablack-theme`
+
+
 ## Thanks to [Viktor Qvarfordt](https://github.com/ViktorQvarfordt)
