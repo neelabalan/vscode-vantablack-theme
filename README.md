@@ -12,7 +12,19 @@
 
 ## Screenshot
 
-![screenshot](https://i.imgur.com/dpKsFq0.png)
+### Editor window
+
+![vscode](screenshots/editor.png)
+---
+
+### Settings
+
+![settings](screenshots/settings.png)
+---
+
+### Command Pallete
+![pallete](screenshots/pallete.png)
+---
 
 
 ## Manual Install

@@ -4,6 +4,7 @@
 	"publisher": "neelabalan",
 	"description": "Vanta Black Theme",
 	"version": "1.0.0",
+	"icon": "logo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/neelabalan/vscode-vantablack-theme"
